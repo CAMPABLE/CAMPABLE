@@ -38,7 +38,8 @@ https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4
 
 ## _Connect_
 <p align="left">
-    <a href="https://campable.ee/" target="_blank"><img src="./public/img/campable.png" width="100" height="100"></a>
+    <a href="https://campable.ee/" target="_blank"><img src="./public/img/campable.png" width="60" height="60" style="margin: 30px;"></a>
+    <a href="https://www.instagram.com/campable.ee/" target="_blank"><img src="./public/img/Instagram.png" width="60" height="60" style="margin: 30px;"></a>
 </p>
 
 ### 📫 campable.ee@gmail.com
