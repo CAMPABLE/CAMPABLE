@@ -1,17 +1,47 @@
 ![logo](./public/img/logo_FF8B02.png)
-## _Desctiption_
+## _Description_
 캠핑 가고 싶은데 예약에 실패하셨나요?<br>
 빈자리를 찾아 하루종일 사이트를 들락 날락 해보셨나요?<br>
 캠퍼블이 빈자리를 대신 찾아 알려드려요.
 
-## _Preview_
+## _Fetures_
+### 빈자리 알림 👀
+알림신청을 한 캠핑장에 빈자리가 생기면 푸시 알림을 보내드려요.<br>
+인기 캠핑장의 경우 빠르게 확인하지 않으면 빈자리가 사라져 있을 수 있으니<br> 
+푸시가 오면 빠르게 확인해주세요.
+###예약오픈 알림 🔔
+예약 오픈 1시간 전에 푸시 알림을 보내드려요.
 
+## _Preview_
+<p align="left">
+    <video controls src="./public/preview/preview_all.mp4" width="360" height=740"></video>
+    &nbsp&nbsp
+    <video controls src="./public/preview/preview_vacancy.mp4" width="360" height=740"></video>
+</p>
+<p align="left">
+    <img src="./public/preview/capture_home01.jpg" width="216" height=444">
+    &nbsp&nbsp
+    <img src="./public/preview/capture_search01.jpg" width="216" height=444">
+    &nbsp&nbsp
+    <img src="./public/preview/capture_detail01.jpg" width="216" height=444">
+    &nbsp&nbsp
+    <img src="./public/preview/capture_detail02.jpg" width="216" height=444">
+    &nbsp&nbsp
+    <img src="./public/preview/capture_noti01.jpg" width="216" height=444">
+    &nbsp&nbsp
+    <img src="./public/preview/capture_vacancy01.jpg" width="216" height=444">
+    &nbsp&nbsp
+    <img src="./public/preview/capture_openday01.jpg" width="216" height=444">
+</p>
  
 ## _Roadmap_ 
+2023.01 CAMPABLE App store, Play store 출시
 
 ## _Connect_
-<p align="center">
-    <a href="https://campable.ee/" target="_blank"><img src="./public/img/mobile_icon.png" width="150" height=150"/></a>
+<p align="left">
+    <a href="https://campable.ee/" target="_blank"><img src="./public/img/campable.png" width="100" height=100"></a>
+    &nbsp&nbsp
+    <a href="https://www.instagram.com/campable.ee/" target="_blank"><img src="./public/img/instagram.png" width="100" height=100"></a>
 </p>
 
 ### 📫 campable.ee@gmail.com
