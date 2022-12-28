@@ -4,7 +4,7 @@
 빈자리를 찾아 하루종일 사이트를 들락 날락 해보셨나요?<br>
 캠퍼블이 빈자리를 대신 찾아 알려드려요.
 
-## _Fetures_
+## _Features_
 ### 빈자리 알림 👀
 알림신청을 한 캠핑장에 빈자리가 생기면 푸시 알림을 보내드려요.<br>
 인기 캠핑장의 경우 빠르게 확인하지 않으면 빈자리가 사라져 있을 수 있으니<br> 
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4
 </p>
  
 ## _Roadmap_ 
-> 2023.01 CAMPABLE App store, Play store 출시
+> 2023.02 CAMPABLE App store, Play store 출시
 
 ## _Connect_
 <br>
