@@ -20,32 +20,36 @@ https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4
 
 <br>
 <p align="left">
-    <img src="./public/preview/capture_home01.jpg" width="216" height=444">
+    <img src="/public/preview/capture_home01.jpg" width="216" height=444">
     &nbsp&nbsp
-    <img src="./public/preview/capture_search01.jpg" width="216" height=444">
+    <img src="/public/preview/capture_search01.jpg" width="216" height=444">
     &nbsp&nbsp
-    <img src="./public/preview/capture_detail01.jpg" width="216" height=444">
+    <img src="/public/preview/capture_detail01.jpg" width="216" height=444">
     &nbsp&nbsp
-    <img src="./public/preview/capture_detail02.jpg" width="216" height=444">
+    <img src="/public/preview/capture_detail02.jpg" width="216" height=444">
     &nbsp&nbsp
-    <img src="./public/preview/capture_noti01.jpg" width="216" height=444">
+    <img src="/public/preview/capture_noti01.jpg" width="216" height=444">
     &nbsp&nbsp
-    <img src="./public/preview/capture_vacancy01.jpg" width="216" height=444">
+    <img src="/public/preview/capture_vacancy01.jpg" width="216" height=444">
 </p>
  
 ## _Roadmap_ 
-2023.01 CAMPABLE App store, Play store 출시
+> 2023.01 CAMPABLE App store, Play store 출시
 
 ## _Connect_
-<p align="left">
-    <a href="https://campable.ee/" target="_blank" style="display: inline-block; margin: 30px;">
-        <img src="./public/img/campable.png" width="60" height="60">
-    </a>
-    <a href="https://www.instagram.com/campable.ee/" target="_blank" style="display: inline-block; margin: 30px;">
-        <img src="./public/img/Instagram.png" width="60" height="60">
-    </a>
-</p>
-
+<br>
+&nbsp&nbsp&nbsp&nbsp
+<a href="https://campable.ee/" target="_blank" style="display: inline-block; margin: 30px;">
+    <img src="/public/img/campable.png" width="60" height="60">
+</a>
+&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp
+<a href="https://www.instagram.com/campable.ee/" target="_blank" style="display: inline-block; margin: 30px;">
+    <img src="/public/img/Instagram.png" width="60" height="60">
+</a>
+&nbsp&nbsp&nbsp&nbsp
+<br>
+<br>
 ### 📫 campable.ee@gmail.com
 
 
