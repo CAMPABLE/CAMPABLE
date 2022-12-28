@@ -13,9 +13,10 @@
 예약 오픈 1시간 전에 푸시 알림을 보내드려요.
 
 ## _Preview_
+https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4-a65a-d7e1ea19971b.mp4
 <p align="left">
     <video controls width="360" height=740">
-        <source src="./public/preview/preview_vacancy.mp4" type="video/mp4">
+        <source src="https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4-a65a-d7e1ea19971b.mp4" type="video/mp4">
     </video>
 </p>
 <p align="left">
