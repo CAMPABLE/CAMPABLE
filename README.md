@@ -15,10 +15,6 @@
 ## _Preview_
 <p align="left">
     <video controls width="360" height=740">
-        <source src="./public/preview/preview_all.mp4" type="video/mp4">
-    </video>
-    &nbsp&nbsp
-    <video controls width="360" height=740">
         <source src="./public/preview/preview_vacancy.mp4" type="video/mp4">
     </video>
 </p>
