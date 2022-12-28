@@ -14,9 +14,13 @@
 
 ## _Preview_
 <p align="left">
-    <video controls src="./public/preview/preview_all.mp4" width="360" height=740"></video>
+    <video controls width="360" height=740">
+        <source src="./public/preview/preview_all.mp4" type="video/mp4">
+    </video>
     &nbsp&nbsp
-    <video controls src="./public/preview/preview_vacancy.mp4" width="360" height=740"></video>
+    <video controls width="360" height=740">
+        <source src="./public/preview/preview_vacancy.mp4" type="video/mp4">
+    </video>
 </p>
 <p align="left">
     <img src="./public/preview/capture_home01.jpg" width="216" height=444">
@@ -30,8 +34,6 @@
     <img src="./public/preview/capture_noti01.jpg" width="216" height=444">
     &nbsp&nbsp
     <img src="./public/preview/capture_vacancy01.jpg" width="216" height=444">
-    &nbsp&nbsp
-    <img src="./public/preview/capture_openday01.jpg" width="216" height=444">
 </p>
  
 ## _Roadmap_ 
