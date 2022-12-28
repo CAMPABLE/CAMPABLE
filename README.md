@@ -1,16 +1,26 @@
-### Hi there 👋
+![logo](./public/img/logo_FF8B02.png)
+## _Desctiption_
+캠핑 가고 싶은데 예약에 실패하셨나요?<br>
+빈자리를 찾아 하루종일 사이트를 들락 날락 해보셨나요?<br>
+캠퍼블이 빈자리를 대신 찾아 알려드려요.
 
-<!--
-**CAMPABLE/CAMPABLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _Preview_
 
-Here are some ideas to get you started:
+ 
+## _Roadmap_ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## _Connect_
+<p align="center">
+    <a href="https://campable.ee/" target="_blank"><img src="./public/img/mobile_icon.png" width="150" height=150"/></a>
+</p>
+
+### 📫 campable.ee@gmail.com
+
+
+## _Tech_
+<img src="https://img.shields.io/badge/Python-1E415E?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+<img src="https://img.shields.io/badge/React Native-20232A?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+<img src="https://img.shields.io/badge/Expo-14191F?style=flat-square&logo=Expo&logoColor=BCC3CD"/></a>
+
