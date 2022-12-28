@@ -15,11 +15,6 @@
 ## _Preview_
 https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4-a65a-d7e1ea19971b.mp4
 <p align="left">
-    <video controls width="360" height=740">
-        <source src="https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4-a65a-d7e1ea19971b.mp4" type="video/mp4">
-    </video>
-</p>
-<p align="left">
     <img src="./public/preview/capture_home01.jpg" width="216" height=444">
     &nbsp&nbsp
     <img src="./public/preview/capture_search01.jpg" width="216" height=444">
