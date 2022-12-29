@@ -1,4 +1,19 @@
+<p align="center">
+    <img src="/public/img/logo_FF8B02.png" width="162" height=69">
+    <br>
+    <img src="https://img.shields.io/github/watchers/CAMPABLE/CAMPABLE?style=social">
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/CAMPABLE?style=social">
+</p>
+
+<!--
 ![logo](./public/img/logo_FF8B02.png)
+
+![GitHub watchers](https://img.shields.io/github/watchers/CAMPABLE/CAMPABLE?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/CAMPABLE?style=social)
+-->
+
 ## _Description_
 캠핑 가고 싶은데 예약에 실패하셨나요?<br>
 빈자리를 찾아 하루종일 사이트를 들락 날락 해보셨나요?<br>
