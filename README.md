@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4
 </p>
  
 ## _Roadmap_ 
-> 2023.02 CAMPABLE App store, Play store 출시
+> 2023.03 CAMPABLE App store, Play store 출시
 
 ## _Connect_
 <br>
@@ -62,6 +62,11 @@ https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.instagram.com/campable.ee/" target="_blank" style="display: inline-block; margin: 30px;">
     <img src="/public/img/Instagram.png" width="60" height="60">
+</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://brunch.co.kr/@campable/" target="_blank" style="display: inline-block; margin: 30px;">
+    <img src="/public/img/Brunch.png" width="60" height="60">
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <br>
