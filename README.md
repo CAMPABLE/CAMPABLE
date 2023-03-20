@@ -69,6 +69,11 @@ https://user-images.githubusercontent.com/117609013/209762025-2552c5d3-cfdd-4da4
     <img src="/public/img/Brunch.png" width="60" height="60">
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://oil-aerosteon-554.notion.site/CAMPABLE-80cbd0754167409da1ad6fce531c5ae1/" target="_blank" style="display: inline-block; margin: 30px;">
+    <img src="/public/img/Notion.png" width="60" height="60">
+</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp
 <br>
 <br>
 
